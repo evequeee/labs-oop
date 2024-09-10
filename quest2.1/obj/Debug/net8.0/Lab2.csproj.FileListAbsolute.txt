@@ -1,0 +1,15 @@
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\bin\Debug\net8.0\Lab2.exe
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\bin\Debug\net8.0\Lab2.deps.json
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\bin\Debug\net8.0\Lab2.dll
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\bin\Debug\net8.0\Lab2.pdb
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\Lab2.sourcelink.json
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\Lab2.dll
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\refint\Lab2.dll
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\Lab2.pdb
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+F:\OOP 2 course CHNU\Lab 1\ConsoleApp2\obj\Debug\net8.0\ref\Lab2.dll
