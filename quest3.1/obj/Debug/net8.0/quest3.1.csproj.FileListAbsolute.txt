@@ -1,0 +1,15 @@
+F:\OOP 2 course CHNU\Lab 1\quest3.1\bin\Debug\net8.0\quest3.1.exe
+F:\OOP 2 course CHNU\Lab 1\quest3.1\bin\Debug\net8.0\quest3.1.deps.json
+F:\OOP 2 course CHNU\Lab 1\quest3.1\bin\Debug\net8.0\quest3.1.runtimeconfig.json
+F:\OOP 2 course CHNU\Lab 1\quest3.1\bin\Debug\net8.0\quest3.1.dll
+F:\OOP 2 course CHNU\Lab 1\quest3.1\bin\Debug\net8.0\quest3.1.pdb
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\quest3.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\quest3.1.AssemblyInfoInputs.cache
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\quest3.1.AssemblyInfo.cs
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\quest3.1.csproj.CoreCompileInputs.cache
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\quest3.1.sourcelink.json
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\quest3.1.dll
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\refint\quest3.1.dll
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\quest3.1.pdb
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\quest3.1.genruntimeconfig.cache
+F:\OOP 2 course CHNU\Lab 1\quest3.1\obj\Debug\net8.0\ref\quest3.1.dll
