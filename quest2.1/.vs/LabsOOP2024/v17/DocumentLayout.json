@@ -3,22 +3,7 @@
   "WorkspaceRootPath": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B4A7F1E-958E-4E93-BED4-0B9B484A880A}|..\\quest3.3\\quest3.3.csproj|f:\\oop 2 course chnu\\lab 1\\quest3.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5FC82EA7-95D5-4389-B60C-E06C7A3EE05E}|..\\quest3.2\\quest3.2.csproj|f:\\oop 2 course chnu\\lab 1\\quest3.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AFDD07E-1F16-4F6A-B6D7-1220FF697AF0}|..\\quest3.1\\quest3.1.csproj|f:\\oop 2 course chnu\\lab 1\\quest3.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C156DE0F-CCB4-4B93-9A63-E19CD50C8DA4}|..\\quest2.5\\quest2.5.csproj|f:\\oop 2 course chnu\\lab 1\\quest2.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{998C6D63-07ED-4EEE-AC0B-ED2784D5E36F}|..\\quest2.3\\quest2.3.csproj|f:\\oop 2 course chnu\\lab 1\\quest2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3517B73-B73E-4C74-B692-289272677E8C}|..\\quest2.4\\quest2.4.csproj|f:\\oop 2 course chnu\\lab 1\\quest2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ABE61234-68D5-445B-BF48-8168EDB21A9A}|..\\quest4.3\\quest4.3.csproj|f:\\oop 2 course chnu\\lab 1\\quest4.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,74 +19,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\OOP 2 course CHNU\\Lab 1\\quest3.3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest3.3\\Program.cs",
-              "ToolTip": "F:\\OOP 2 course CHNU\\Lab 1\\quest3.3\\Program.cs",
-              "RelativeToolTip": "..\\quest3.3\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAYwGEAAAArAAAAAAAAAA==",
+              "DocumentMoniker": "F:\\OOP 2 course CHNU\\Lab 1\\quest4.3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\quest4.3\\Program.cs",
+              "ToolTip": "F:\\OOP 2 course CHNU\\Lab 1\\quest4.3\\Program.cs",
+              "RelativeToolTip": "..\\quest4.3\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwAoAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T20:35:49.356Z",
+              "WhenOpened": "2024-10-14T10:40:19.945Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\OOP 2 course CHNU\\Lab 1\\quest3.2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest3.2\\Program.cs",
-              "ToolTip": "F:\\OOP 2 course CHNU\\Lab 1\\quest3.2\\Program.cs",
-              "RelativeToolTip": "..\\quest3.2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T20:02:58.332Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\OOP 2 course CHNU\\Lab 1\\quest3.1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest3.1\\Program.cs",
-              "ToolTip": "F:\\OOP 2 course CHNU\\Lab 1\\quest3.1\\Program.cs",
-              "RelativeToolTip": "..\\quest3.1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T16:23:48.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.5\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest2.5\\Program.cs",
-              "ToolTip": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.5\\Program.cs",
-              "RelativeToolTip": "..\\quest2.5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:18:56.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.4\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest2.4\\Program.cs",
-              "ToolTip": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.4\\Program.cs",
-              "RelativeToolTip": "..\\quest2.4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T21:06:08.364Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest2.3\\Program.cs",
-              "ToolTip": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.3\\Program.cs",
-              "RelativeToolTip": "..\\quest2.3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T18:45:35.806Z"
             }
           ]
         }

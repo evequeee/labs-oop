@@ -1,0 +1,15 @@
+F:\OOP 2 course CHNU\Lab 1\quest4.3\bin\Debug\net8.0\quest4.3.exe
+F:\OOP 2 course CHNU\Lab 1\quest4.3\bin\Debug\net8.0\quest4.3.deps.json
+F:\OOP 2 course CHNU\Lab 1\quest4.3\bin\Debug\net8.0\quest4.3.runtimeconfig.json
+F:\OOP 2 course CHNU\Lab 1\quest4.3\bin\Debug\net8.0\quest4.3.dll
+F:\OOP 2 course CHNU\Lab 1\quest4.3\bin\Debug\net8.0\quest4.3.pdb
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\quest4.3.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\quest4.3.AssemblyInfoInputs.cache
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\quest4.3.AssemblyInfo.cs
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\quest4.3.csproj.CoreCompileInputs.cache
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\quest4.3.sourcelink.json
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\quest4.3.dll
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\refint\quest4.3.dll
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\quest4.3.pdb
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\quest4.3.genruntimeconfig.cache
+F:\OOP 2 course CHNU\Lab 1\quest4.3\obj\Debug\net8.0\ref\quest4.3.dll
