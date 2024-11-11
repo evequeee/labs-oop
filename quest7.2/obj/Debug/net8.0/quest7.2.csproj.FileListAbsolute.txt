@@ -1,0 +1,15 @@
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\bin\Debug\net8.0\quest7.2.exe
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\bin\Debug\net8.0\quest7.2.deps.json
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\bin\Debug\net8.0\quest7.2.runtimeconfig.json
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\bin\Debug\net8.0\quest7.2.dll
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\bin\Debug\net8.0\quest7.2.pdb
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\quest7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\quest7.2.AssemblyInfoInputs.cache
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\quest7.2.AssemblyInfo.cs
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\quest7.2.csproj.CoreCompileInputs.cache
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\quest7.2.sourcelink.json
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\quest7.2.dll
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\refint\quest7.2.dll
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\quest7.2.pdb
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\quest7.2.genruntimeconfig.cache
+C:\Users\bogda\Source\Repos\labs-oop\quest7.2\obj\Debug\net8.0\ref\quest7.2.dll

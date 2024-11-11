@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\OOP 2 course CHNU\\Lab 1\\quest2.3\\quest2.3.csproj": {}
+    "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest2.3\\quest2.3.csproj": {}
   },
   "projects": {
-    "F:\\OOP 2 course CHNU\\Lab 1\\quest2.3\\quest2.3.csproj": {
+    "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest2.3\\quest2.3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.3\\quest2.3.csproj",
+        "projectUniqueName": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest2.3\\quest2.3.csproj",
         "projectName": "quest2.3",
-        "projectPath": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.3\\quest2.3.csproj",
+        "projectPath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest2.3\\quest2.3.csproj",
         "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-        "outputPath": "F:\\OOP 2 course CHNU\\Lab 1\\quest2.3\\obj\\",
+        "outputPath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest2.3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
