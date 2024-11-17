@@ -1,0 +1,15 @@
+C:\Users\bogda\source\repos\labs-oop\quest11.4\bin\Debug\net8.0\quest11.4.exe
+C:\Users\bogda\source\repos\labs-oop\quest11.4\bin\Debug\net8.0\quest11.4.deps.json
+C:\Users\bogda\source\repos\labs-oop\quest11.4\bin\Debug\net8.0\quest11.4.runtimeconfig.json
+C:\Users\bogda\source\repos\labs-oop\quest11.4\bin\Debug\net8.0\quest11.4.dll
+C:\Users\bogda\source\repos\labs-oop\quest11.4\bin\Debug\net8.0\quest11.4.pdb
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\quest11.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\quest11.4.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\quest11.4.AssemblyInfo.cs
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\quest11.4.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\quest11.4.sourcelink.json
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\quest11.4.dll
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\refint\quest11.4.dll
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\quest11.4.pdb
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\quest11.4.genruntimeconfig.cache
+C:\Users\bogda\source\repos\labs-oop\quest11.4\obj\Debug\net8.0\ref\quest11.4.dll

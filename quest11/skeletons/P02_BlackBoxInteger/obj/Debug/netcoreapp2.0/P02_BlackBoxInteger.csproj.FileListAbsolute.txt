@@ -1,0 +1,14 @@
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.AssemblyReference.cache
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfoInputs.cache
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.AssemblyInfo.cs
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.csproj.CoreCompileInputs.cache
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.sourcelink.json
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.deps.json
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.json
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.runtimeconfig.dev.json
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\bin\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.dll
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.pdb
+C:\Users\bogda\source\repos\labs-oop\quest11\skeletons\P02_BlackBoxInteger\obj\Debug\netcoreapp2.0\P02_BlackBoxInteger.genruntimeconfig.cache

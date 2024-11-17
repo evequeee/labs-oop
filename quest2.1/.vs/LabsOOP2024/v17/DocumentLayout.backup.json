@@ -3,22 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest2.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAAE5760-587D-4324-AA50-F3CC9165559B}|..\\quest7.2.3\\quest7.2.3.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest7.2.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67AA235F-B82D-4DF6-84AF-69A3D02445D2}|..\\quest11.4\\quest11.4.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest11.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAAE5760-587D-4324-AA50-F3CC9165559B}|..\\quest7.2.3\\quest7.2.3.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest7.2.3\\fold\\quest7.2.3_face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C75BC10-399B-4257-A0F7-16C7B1823DD7}|..\\quest11.3\\quest11.3.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest11.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCF6220E-6BAB-40E6-8478-A87DAE776B1B}|..\\quest7.2.2\\quest7.2.2.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest7.2.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67CAA060-C1C6-478B-BA49-1F20D41316CD}|..\\quest11\\skeletons\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\p02_blackboxinteger\\blackboxintegertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCF6220E-6BAB-40E6-8478-A87DAE776B1B}|..\\quest7.2.2\\quest7.2.2.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest7.2.2\\fold\\quest7_2_2_face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86401EDF-A0E0-484B-BED1-5F1DA1F218E1}|..\\quest7.2\\quest7.2.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest7.2\\fold\\quest7_2_1_face.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86401EDF-A0E0-484B-BED1-5F1DA1F218E1}|..\\quest7.2\\quest7.2.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{67CAA060-C1C6-478B-BA49-1F20D41316CD}|..\\quest11\\skeletons\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\p02_blackboxinteger\\blackboxinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,89 +22,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "quest7.2.3_face.cs",
-              "DocumentMoniker": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest7.2.3\\fold\\quest7.2.3_face.cs",
-              "RelativeDocumentMoniker": "..\\quest7.2.3\\fold\\quest7.2.3_face.cs",
-              "ToolTip": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest7.2.3\\fold\\quest7.2.3_face.cs",
-              "RelativeToolTip": "..\\quest7.2.3\\fold\\quest7.2.3_face.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:20:42.305Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest7.2.3\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest7.2.3\\Program.cs",
-              "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest7.2.3\\Program.cs",
-              "RelativeToolTip": "..\\quest7.2.3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11.4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\quest11.4\\Program.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11.4\\Program.cs",
+              "RelativeToolTip": "..\\quest11.4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:20:21.286Z",
+              "WhenOpened": "2024-11-17T01:29:20.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "quest7_2_2_face.cs",
-              "DocumentMoniker": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest7.2.2\\fold\\quest7_2_2_face.cs",
-              "RelativeDocumentMoniker": "..\\quest7.2.2\\fold\\quest7_2_2_face.cs",
-              "ToolTip": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest7.2.2\\fold\\quest7_2_2_face.cs",
-              "RelativeToolTip": "..\\quest7.2.2\\fold\\quest7_2_2_face.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11.3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\quest11.3\\Program.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11.3\\Program.cs",
+              "RelativeToolTip": "..\\quest11.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:12:29.254Z",
+              "WhenOpened": "2024-11-17T01:25:04.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest7.2.2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest7.2.2\\Program.cs",
-              "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest7.2.2\\Program.cs",
-              "RelativeToolTip": "..\\quest7.2.2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Title": "BlackBoxIntegerTests.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
+              "RelativeDocumentMoniker": "..\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
+              "RelativeToolTip": "..\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T18:10:38.695Z",
+              "WhenOpened": "2024-11-17T01:07:56.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "quest7_2_1_face.cs",
-              "DocumentMoniker": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest7.2\\fold\\quest7_2_1_face.cs",
-              "RelativeDocumentMoniker": "..\\quest7.2\\fold\\quest7_2_1_face.cs",
-              "ToolTip": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest7.2\\fold\\quest7_2_1_face.cs",
-              "RelativeToolTip": "..\\quest7.2\\fold\\quest7_2_1_face.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BlackBoxInteger.cs",
+              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxInteger.cs",
+              "RelativeDocumentMoniker": "..\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxInteger.cs",
+              "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxInteger.cs",
+              "RelativeToolTip": "..\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxInteger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:58:15.363Z",
+              "WhenOpened": "2024-11-17T01:07:52.593Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest7.2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest7.2\\Program.cs",
-              "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest7.2\\Program.cs",
-              "RelativeToolTip": "..\\quest7.2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T17:56:51.59Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }
