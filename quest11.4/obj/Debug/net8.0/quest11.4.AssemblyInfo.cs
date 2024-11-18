@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("quest11.4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3051baab8f331b948f59a164397a37b82071458d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3889c78bd3be2f7ee67c4498f8b6c6a8b9aeb143")]
 [assembly: System.Reflection.AssemblyProductAttribute("quest11.4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("quest11.4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

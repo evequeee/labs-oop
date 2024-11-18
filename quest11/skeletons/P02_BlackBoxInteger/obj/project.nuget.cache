@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "phckk9g0ICM=",
+  "dgSpecHash": "psm0QC73CmA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj",
+  "projectFilePath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bogda\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\bogda\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

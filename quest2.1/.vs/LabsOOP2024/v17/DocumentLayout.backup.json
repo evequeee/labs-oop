@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest2.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67AA235F-B82D-4DF6-84AF-69A3D02445D2}|..\\quest11.4\\quest11.4.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest11.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C75BC10-399B-4257-A0F7-16C7B1823DD7}|..\\quest11.3\\quest11.3.csproj|c:\\users\\bogda\\source\\repos\\labs-oop\\quest11.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -28,31 +25,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11.4\\Program.cs",
-              "RelativeDocumentMoniker": "..\\quest11.4\\Program.cs",
-              "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11.4\\Program.cs",
-              "RelativeToolTip": "..\\quest11.4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T01:29:20.215Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11.3\\Program.cs",
               "RelativeDocumentMoniker": "..\\quest11.3\\Program.cs",
               "ToolTip": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11.3\\Program.cs",
               "RelativeToolTip": "..\\quest11.3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-17T01:25:04.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BlackBoxIntegerTests.cs",
               "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
               "RelativeDocumentMoniker": "..\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxIntegerTests.cs",
@@ -65,7 +49,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BlackBoxInteger.cs",
               "DocumentMoniker": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxInteger.cs",
               "RelativeDocumentMoniker": "..\\quest11\\skeletons\\P02_BlackBoxInteger\\BlackBoxInteger.cs",

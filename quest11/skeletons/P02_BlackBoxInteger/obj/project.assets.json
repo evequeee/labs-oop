@@ -939,9 +939,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj",
+      "projectUniqueName": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj",
       "projectName": "P02_BlackBoxInteger",
-      "projectPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj",
+      "projectPath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\P02_BlackBoxInteger.csproj",
       "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P02_BlackBoxInteger\\obj\\",
       "projectStyle": "PackageReference",

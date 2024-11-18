@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9korXtHesIY=",
+  "dgSpecHash": "tmUQif5c7II=",
   "success": true,
-  "projectFilePath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
+  "projectFilePath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bogda\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
     "C:\\Users\\bogda\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",

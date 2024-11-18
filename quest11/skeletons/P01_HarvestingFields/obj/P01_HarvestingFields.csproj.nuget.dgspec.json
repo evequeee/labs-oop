@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj": {}
+    "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj": {
+    "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
+        "projectUniqueName": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
         "projectName": "P01_HarvestingFields",
-        "projectPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
+        "projectPath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\P01_HarvestingFields.csproj",
         "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest11\\skeletons\\P01_HarvestingFields\\obj\\",
         "projectStyle": "PackageReference",

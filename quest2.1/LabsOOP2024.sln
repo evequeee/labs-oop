@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P01_HarvestingFields", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P02_BlackBoxInteger", "..\quest11\skeletons\P02_BlackBoxInteger\P02_BlackBoxInteger.csproj", "{67CAA060-C1C6-478B-BA49-1F20D41316CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quest11.3", "..\quest11.3\quest11.3.csproj", "{9C75BC10-399B-4257-A0F7-16C7B1823DD7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quest11.3", "..\quest11.3\quest11.3.csproj", "{9C75BC10-399B-4257-A0F7-16C7B1823DD7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quest11.4", "..\quest11.4\quest11.4.csproj", "{67AA235F-B82D-4DF6-84AF-69A3D02445D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "quest11.4", "..\quest11.4\quest11.4.csproj", "{67AA235F-B82D-4DF6-84AF-69A3D02445D2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab13_1", "..\Lab13_1\Lab13_1.csproj", "{1FB44588-DBDD-4415-8497-691EE29774F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{67AA235F-B82D-4DF6-84AF-69A3D02445D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{67AA235F-B82D-4DF6-84AF-69A3D02445D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{67AA235F-B82D-4DF6-84AF-69A3D02445D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FB44588-DBDD-4415-8497-691EE29774F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FB44588-DBDD-4415-8497-691EE29774F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FB44588-DBDD-4415-8497-691EE29774F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FB44588-DBDD-4415-8497-691EE29774F0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

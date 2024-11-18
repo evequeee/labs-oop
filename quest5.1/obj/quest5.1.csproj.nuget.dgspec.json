@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest5.1\\quest5.1.csproj": {}
+    "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest5.1\\quest5.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest5.1\\quest5.1.csproj": {
+    "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest5.1\\quest5.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest5.1\\quest5.1.csproj",
+        "projectUniqueName": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest5.1\\quest5.1.csproj",
         "projectName": "quest5.1",
-        "projectPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\quest5.1\\quest5.1.csproj",
+        "projectPath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest5.1\\quest5.1.csproj",
         "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\quest5.1\\obj\\",
         "projectStyle": "PackageReference",
