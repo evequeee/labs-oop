@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bogda\\source\\repos\\labs-oop\\Lab13_1\\Lab13_1.csproj": {}
+    "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\Lab13_1\\Lab13_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bogda\\source\\repos\\labs-oop\\Lab13_1\\Lab13_1.csproj": {
+    "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\Lab13_1\\Lab13_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bogda\\source\\repos\\labs-oop\\Lab13_1\\Lab13_1.csproj",
+        "projectUniqueName": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\Lab13_1\\Lab13_1.csproj",
         "projectName": "Lab13_1",
-        "projectPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\Lab13_1\\Lab13_1.csproj",
+        "projectPath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\Lab13_1\\Lab13_1.csproj",
         "packagesPath": "C:\\Users\\bogda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bogda\\source\\repos\\labs-oop\\Lab13_1\\obj\\",
+        "outputPath": "C:\\Users\\bogda\\Source\\Repos\\labs-oop\\Lab13_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bogda\\AppData\\Roaming\\NuGet\\NuGet.Config",
